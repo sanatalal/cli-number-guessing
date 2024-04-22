@@ -1,6 +1,6 @@
 {
-  "name": "sanatalal-cli-number-guessing",
-  "version": "1.0.4",
+  "name": "sana-talal-number-guessing",
+  "version": "1.0.1",
   "description": "This is a simple cli based number guessing game.",
   "main": "index.js",
   "type": "module",
@@ -12,8 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.18",
-    "sanatalal-cli-number-guessing": "^1.0.1"
+    "inquirer": "^9.2.19"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
